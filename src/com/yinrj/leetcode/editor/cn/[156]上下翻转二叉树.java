@@ -67,7 +67,7 @@ import java.util.LinkedList;
  * }
  * }
  */
-class Solution {
+class Solution156 {
 
     /**
      * 递归
