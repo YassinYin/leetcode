@@ -31,7 +31,7 @@ package com.yinrj.leetcode.editor.cn;
 // Related Topics 双指针 字符串 动态规划 👍 7425 👎 0
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution5 {
 
     /**
      * 中心扩散
